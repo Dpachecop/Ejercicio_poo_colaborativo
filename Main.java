@@ -27,7 +27,17 @@ public class Main {
 
 
 
-
+   capitan capitan = new capitan("Neyder Ruiz", "1128282344", "10");
+   capitan.mostrarDatos();
+   System.out.println("");
+   reserva reserva= new reserva("Rose Dominguez", 2000000, "Gold VIP",  Date.valueOf("1998-10-07"),  1005);
+   reserva.mostrarDatos();
+   System.out.println("");
+   tripulacion tripulacion = new tripulacion("Mayor", "Luis Santodomingo","112324156");
+   tripulacion.mostrarDatos();
+   System.out.println("");
+   restaurante restaurante = new restaurante("Cactus", 30, "Ensaladas", "Comida saludable");
+   restaurante.mostrarDatos();
 
 
 
