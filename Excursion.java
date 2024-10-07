@@ -1,3 +1,5 @@
+
+
 public class Excursion {
     String destino;
     String duracion;
