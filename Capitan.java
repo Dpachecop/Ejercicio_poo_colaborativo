@@ -16,3 +16,4 @@ class capitan{
         System.out.println("ID: " + id);
         System.out.println("Experiencia: " + experiencia);
     }
+}
