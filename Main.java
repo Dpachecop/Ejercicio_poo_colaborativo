@@ -2,12 +2,7 @@ import java.sql.Date;
 
 public class Main {
     public static void main(String[] args) {
-       
-       
-       
-       
-       
-       
+
 
         System.out.println("             Estudiantes:");
     System.out.println("Valentina Zuñiga - codigo: 7502410013");
@@ -24,6 +19,7 @@ public class Main {
     System.out.println("");
    Pasajero pasajero = new Pasajero("Mauricio", 25, "2345", 756, "Mauviajer@gmail.com");
    pasajero.mostrarDatos();
+
        
        
        
@@ -74,5 +70,57 @@ public class Main {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
+
